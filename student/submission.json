@@ -6,7 +6,7 @@
   },
   "record": {
     "id": "7b08c022-7b08-43fb-8903-0c73afa66bfe",
-    "revision": "10",
+    "revision": "11",
     "model": {
       "moduleId": "controls",
       "modelId": "joshua-course-demo-week07",
@@ -73,7 +73,7 @@
       "reflection": {
         "suppliedBy": "student",
         "locked": false,
-        "text": "Investigate nonlinear effectiveness, tail-force limits, actuator rate and uncertainty before extending the result."
+        "text": "Investigate nonlinear effectiveness, tail-force limits, actuator rate and uncertainty before extending the result. This revised response also tests a second save after editing."
       },
       "aiUse": {
         "suppliedBy": "student",
@@ -947,7 +947,7 @@
   ],
   "verification": {
     "modelHash": "fnv1a-80e10508",
-    "checkedAt": "2026-09-17T00:35:35.947Z",
+    "checkedAt": "2026-09-17T00:41:01.989Z",
     "passed": true,
     "detail": "Student artifact passed demand, baseline elevator, quadratic speed, and neutral-deflection checks."
   }

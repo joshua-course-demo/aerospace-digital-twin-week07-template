@@ -8,7 +8,7 @@ Answers and recorded model results from `submission.json`. This document does no
 
 - Record ID: 7b08c022-7b08-43fb-8903-0c73afa66bfe
 
-- Record revision: 10
+- Record revision: 11
 
 - Model hash: fnv1a-80e10508
 
@@ -83,7 +83,7 @@ At 40 m/s, -5 degrees produces 1642 N*m, exceeding the 1350 N*m required, and al
 
 **Student response:**
 ```
-Investigate nonlinear effectiveness, tail-force limits, actuator rate and uncertainty before extending the result.
+Investigate nonlinear effectiveness, tail-force limits, actuator rate and uncertainty before extending the result. This revised response also tests a second save after editing.
 ```
 
 ### AI use
@@ -142,7 +142,7 @@ The recorded model JSON/expression source follows exactly as supplied. It is not
 
 Recorded as passed for the submitted model hash.
 
-- Checked at: 2026-09-17T00:35:35.947Z
+- Checked at: 2026-09-17T00:41:01.989Z
 - Detail: Student artifact passed demand, baseline elevator, quadratic speed, and neutral-deflection checks.
 
 ## Recorded model runs
