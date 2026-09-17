@@ -152,44 +152,52 @@ Recorded as passed for the submitted model hash.
 - Run ID: a081e577-6022-4de1-9206-9799a5488b7c
 - Record revision: 6
 - Model hash recorded with run: fnv1a-80e10508
-- Prediction recorded with run: ```
+- Prediction recorded with run:
+
+```
 At -5 degrees with a negative derivative, elevator moment is positive. Halving speed quarters q and elevator moment; the fixed -750 N*m competing moment means net moment can turn negative.
 ```
 - Result status: recorded values shown below
-- Values: requiredMoment=1350 N*m; dynamicPressure=980 Pa; deltaCm=0.06981317007977318 1; deltaMoment=1642.0057602762652 N*m
+- Values: `requiredMoment=1350 N*m`; `dynamicPressure=980 Pa`; `deltaCm=0.06981317007977318 1`; `deltaMoment=1642.0057602762652 N*m`
 
 ### Run 2
 - Recorded: 2026-09-17T00:26:13.636Z
 - Run ID: b0b7ea88-825c-4a96-9845-be410eca2463
 - Record revision: 6
 - Model hash recorded with run: fnv1a-80e10508
-- Prediction recorded with run: ```
+- Prediction recorded with run:
+
+```
 At -5 degrees with a negative derivative, elevator moment is positive. Halving speed quarters q and elevator moment; the fixed -750 N*m competing moment means net moment can turn negative.
 ```
 - Result status: recorded values shown below
-- Values: requiredMoment=750 N*m; dynamicPressure=980 Pa; deltaCm=0.06981317007977318 1; deltaMoment=1642.0057602762652 N*m
+- Values: `requiredMoment=750 N*m`; `dynamicPressure=980 Pa`; `deltaCm=0.06981317007977318 1`; `deltaMoment=1642.0057602762652 N*m`
 
 ### Run 3
 - Recorded: 2026-09-17T00:26:35.059Z
 - Run ID: e84aad5d-16f6-49ec-b997-a8224b0331e8
 - Record revision: 6
 - Model hash recorded with run: fnv1a-80e10508
-- Prediction recorded with run: ```
+- Prediction recorded with run:
+
+```
 At -5 degrees with a negative derivative, elevator moment is positive. Halving speed quarters q and elevator moment; the fixed -750 N*m competing moment means net moment can turn negative.
 ```
 - Result status: recorded values shown below
-- Values: requiredMoment=1350 N*m; dynamicPressure=245 Pa; deltaCm=0.06981317007977318 1; deltaMoment=410.5014400690663 N*m
+- Values: `requiredMoment=1350 N*m`; `dynamicPressure=245 Pa`; `deltaCm=0.06981317007977318 1`; `deltaMoment=410.5014400690663 N*m`
 
 ### Run 4
 - Recorded: 2026-09-17T00:26:45.935Z
 - Run ID: f31ade6f-0bc8-497a-afb0-6e61657c6650
 - Record revision: 6
 - Model hash recorded with run: fnv1a-80e10508
-- Prediction recorded with run: ```
+- Prediction recorded with run:
+
+```
 At -5 degrees with a negative derivative, elevator moment is positive. Halving speed quarters q and elevator moment; the fixed -750 N*m competing moment means net moment can turn negative.
 ```
 - Result status: recorded values shown below
-- Values: requiredMoment=1350 N*m; dynamicPressure=980 Pa; deltaCm=0 1; deltaMoment=0 N*m
+- Values: `requiredMoment=1350 N*m`; `dynamicPressure=980 Pa`; `deltaCm=0 1`; `deltaMoment=0 N*m`
 
 ## Submission instructions
 
